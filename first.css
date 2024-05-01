@@ -1,0 +1,109 @@
+
+body {
+  background: rgb(184, 181, 175);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+main {
+  border: 1px solid darkgray;
+  text-align: center;
+}
+
+.avatar {
+  width: 250px;
+}
+
+.header_title { 
+  font-size: 30px;
+}
+
+.header_subtitle {
+  color: #396354;
+}
+
+.skills ol{
+    list-style: none;
+
+}
+.separete{
+    width: 50%;
+    background-color:#396354;
+    height: 1px;
+}
+iframe{
+    border: none;
+    width: 800px;
+    height: 500px;
+}
+
+.ed_table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.ed_table th, 
+.ed_table td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote{
+    font-size: 36px;
+}
+
+
+.fieldset{
+    
+    width: 0 auto;
+}
+
+.fieldset {
+    width:600px;
+    margin: auto;
+}
+
+.form-control {
+    width: 100%;
+    
+}
+
+textarea{
+    width: 600px;
+    max-height: 60px;
+    resize: horizontal ;
+}
+
+.form-submit{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 30%;
+    padding: 1.5%;
+    background-color: #396354;
+    border-color: #396354;
+    color: white;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius:5vh;
+    box-shadow: none;
+
+}
+
+
+
+
+.footer {
+    height: 100px;
+    text-align: center;
+    background-color: #396354;
+}
+
+footer a{
+    color: rgb(251, 251, 251);
+    
+}
